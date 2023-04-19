@@ -1,4 +1,4 @@
-package Pruebas_Programame.src.Semana3;
+package Pruebas_Programame.Semana3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
