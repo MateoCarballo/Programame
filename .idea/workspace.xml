@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f473b8de-cf20-4e0d-926f-9b8d872c37cf" name="Changes" comment="13-14 con if mejorado" />
+    <list default="true" id="540b4ced-d7f9-4496-9772-a01bd92309fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Pruebas_Programame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pruebas_Programame/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,52 +25,48 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2O089Xut5HC4WL7C9i9IbZV2BA7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2OdUZKJV3ov4A6CxTnFv8kH2DMo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Users/mateo/Desktop/Programame"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ContarHastaElFinal441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pruebas_Programame.src.Semana3.ContarHastaElFinal441" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pruebas_Programame.src.Semana3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContarHastaElFinal441" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f473b8de-cf20-4e0d-926f-9b8d872c37cf" name="Changes" comment="" />
-      <created>1680685989477</created>
+      <changelist id="540b4ced-d7f9-4496-9772-a01bd92309fe" name="Changes" comment="" />
+      <created>1681890006339</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680685989477</updated>
+      <updated>1681890006339</updated>
     </task>
-    <task id="LOCAL-00001" summary="13-14 con if mejorado">
-      <created>1681891126702</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681891126702</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="13-14 con if mejorado" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-14 con if mejorado" />
   </component>
 </project>
