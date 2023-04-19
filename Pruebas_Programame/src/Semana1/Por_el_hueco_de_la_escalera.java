@@ -1,8 +1,9 @@
-package Pruebas_Programame.src.Semana1;
+package Semana1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
 public class Por_el_hueco_de_la_escalera {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

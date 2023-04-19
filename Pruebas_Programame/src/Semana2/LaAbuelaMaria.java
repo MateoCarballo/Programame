@@ -1,4 +1,4 @@
-package Pruebas_Programame.src.Semana2;
+package Semana2;
 
 //https://www.aceptaelreto.com/problem/statement.php?id=337
 import java.io.BufferedReader;
