@@ -13,12 +13,7 @@ public class La_13_14 {
         for (int i = 0; i < casos; i++) {
             String[] entrada = br.readLine().split("-");
             Arrays.sort(entrada);
-            if (Integer.parseInt(entrada[0]) % 2 == 1
-                    || Math.abs(Integer.parseInt(entrada[0]) - Integer.parseInt(entrada[1])) != 1) {
-                System.out.println("NO");
-            } else {
-                System.out.println("SI");
-            }
+            System.out.println((Integer.parseInt(entrada[0]) % 2 == 1 || Math.abs(Integer.parseInt(entrada[0]) - Integer.parseInt(entrada[1])) != 1)?"NO":"SI");
         }
     }
 }
