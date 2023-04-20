@@ -9,12 +9,12 @@ public class LoteriaPenaAtletica {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int casos = Integer.parseInt(br.readLine());
         for (int i = 0; i < casos; i++) {
-            br.readLine();
+            int limite = Integer.parseInt(br.readLine());
             int contador= 0 ;
             String[] numeros = br.readLine().split(" ");
-            for (String numero: numeros) {
-                if (Integer.parseInt(numero) % 2 == 0){contador++;}
-            }
+            for (int x = 0 ; x < limite ; x++) {
+                if (Integer.parseInt(numeros[x]) % 2 == 0){contador++;}
+            } 
             System.out.println(contador);
         }
     }
