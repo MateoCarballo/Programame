@@ -1,4 +1,4 @@
-package Pruebas_Programame.src.Semana3;
+package Semana3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,8 @@ public class La_13_14 {
         for (int i = 0; i < casos; i++) {
             String[] entrada = br.readLine().split("-");
             Arrays.sort(entrada);
-            System.out.println((Integer.parseInt(entrada[0]) % 2 == 1 || Math.abs(Integer.parseInt(entrada[0]) - Integer.parseInt(entrada[1])) != 1)?"NO":"SI");
+            System.out.println((Integer.parseInt(entrada[0]) % 2 == 1
+                    || Math.abs(Integer.parseInt(entrada[0]) - Integer.parseInt(entrada[1])) != 1) ? "NO" : "SI");
         }
     }
 }

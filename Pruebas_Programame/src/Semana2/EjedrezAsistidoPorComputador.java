@@ -1,4 +1,4 @@
-package Pruebas_Programame.src.Semana2;
+package Semana2;
 
 import java.io.InputStreamReader;
 import java.util.Arrays;

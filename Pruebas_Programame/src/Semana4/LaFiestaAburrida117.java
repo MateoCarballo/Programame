@@ -1,15 +1,16 @@
-package Semana1;
+package Semana4;
 
+import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
-public class EnQueVolumen {
+public class LaFiestaAburrida117 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int casos = Integer.parseInt(br.readLine());
         for (int i = 0; i < casos; i++) {
-            System.out.println(Integer.parseInt(br.readLine()) / 100);
+            String[] entrada = br.readLine().split(" ");
+            System.out.println("Hola, " + entrada[1] + ".");
         }
     }
 }
