@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="Hazta el 4 medio">
-      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba5.java" afterDir="false" />
+    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="3 y 5 fallan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurso/Prueba4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurso/Prueba4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682441099002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3 y 5 fallan">
+      <created>1682444532560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682444532560</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +135,7 @@
     <MESSAGE value="Loteria sin arreglar" />
     <MESSAGE value="Preparando Ejercicio" />
     <MESSAGE value="Hazta el 4 medio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hazta el 4 medio" />
+    <MESSAGE value="3 y 5 fallan" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 y 5 fallan" />
   </component>
 </project>
