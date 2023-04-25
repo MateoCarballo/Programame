@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="Preparando Ejercicio">
-      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba4.java" afterDir="false" />
+    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="Hazta el 4 medio">
+      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Concurso/Prueba1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurso/Prueba1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682438515587</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hazta el 4 medio">
+      <created>1682441099002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682441099002</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +127,7 @@
     <MESSAGE value="Arreglado la estructura del proyecto 2" />
     <MESSAGE value="Loteria sin arreglar" />
     <MESSAGE value="Preparando Ejercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Preparando Ejercicio" />
+    <MESSAGE value="Hazta el 4 medio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hazta el 4 medio" />
   </component>
 </project>
