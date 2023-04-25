@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="Loteria sin arreglar">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Programame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5b7df0e7-8023-4dab-9a05-5dda2a10a68c" name="Changes" comment="Preparando Ejercicio">
+      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurso/Prueba4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurso/Prueba1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurso/Prueba1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681976831824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Preparando Ejercicio">
+      <created>1682438515587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682438515587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +122,7 @@
     <MESSAGE value="Arreglado la estructura del proyecto" />
     <MESSAGE value="Arreglado la estructura del proyecto 2" />
     <MESSAGE value="Loteria sin arreglar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loteria sin arreglar" />
+    <MESSAGE value="Preparando Ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preparando Ejercicio" />
   </component>
 </project>
